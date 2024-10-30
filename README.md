@@ -93,7 +93,7 @@ const om = {
 
 <div align="center">
   <h3>🐍 My Contribution Graph</h3>
-  <img src="https://github.com/omkumarmangukiya/omkumarmangukiya/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/omkumarmangukiya/omkumarmangukiya/blob/master/dist/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 ---
