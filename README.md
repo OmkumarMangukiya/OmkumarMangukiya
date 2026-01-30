@@ -91,11 +91,6 @@ const om = {
   </a>
 </div>
 
-<div align="center">
-  <h3>🐍 My Contribution Graph</h3>
-  <img src="https://github.com/omkumarmangukiya/omkumarmangukiya/blob/master/dist/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
-
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omkumarmangukiya&style=flat-square&color=blue" alt="Profile views" />
